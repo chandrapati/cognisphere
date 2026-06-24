@@ -1,4 +1,7 @@
 # CogniSphere
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chandrapati.cognisphere&left_text=visitors)
+
  AI Advanced Chat Bot
 
 ## Getting Started
